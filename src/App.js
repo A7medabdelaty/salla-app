@@ -16,7 +16,7 @@ function App() {
         <CartContextProvider>
           <Navigationbar/>
           <Routes>
-            <Route path="/" element={<Home />}></Route>
+            <Route path="/salla-app/" element={<Home />}></Route>
             <Route path="/about" element={<About />} />
             <Route path="/products" element={<Products />} />
             <Route path="/products/:id" element={<SingleProductItem />} />
