@@ -1,0 +1,19 @@
+:root {
+  box-sizing: border-box;
+}
+.about-main {
+  background-image: url("https://img.freepik.com/premium-vector/white-elegant-texture-background_23-2148445782.jpg?w=1060");
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-description{
+  width: 60%;
+  font-size: 20px;
+  text-align: justify;
+}

@@ -1,0 +1,32 @@
+:root {
+  margin: 0;
+  padding: 0;
+}
+.card {
+  width: calc(100% / 4 - 50px) !important;
+  box-shadow: 2px 2px 5px 1px #eee;
+  background-color: white;
+  transition-duration: 0.3s;
+}
+
+.card img {
+  object-fit: contain;
+  width: 100%;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
+
+.card h3,
+p,
+h4 {
+  margin: 15px;
+}
+
+.row {
+  flex-wrap: wrap !important;
+}
+
+.btn-buy,
+.btn-cart {
+  width: calc((100% / 2) - 10px) !important;
+}

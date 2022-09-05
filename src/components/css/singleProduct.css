@@ -1,0 +1,20 @@
+.item-info {
+  border-radius: 5px;
+  box-shadow: 1px 1px 10px 2px #ddd !important;
+  margin: 20px !important;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.price {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  justify-content: space-around;
+}

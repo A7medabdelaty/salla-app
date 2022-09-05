@@ -1,0 +1,24 @@
+:root {
+  box-sizing: border-box;
+  --dark-color: #19283f;
+  --green-color: #33d1cc;
+  --yellow-color: #ffc400;
+}
+
+p{
+  margin: 0;
+}
+.footer {
+  background-color: var(--dark-color);
+}
+
+.footer .copyright > span {
+  color: var(--green-color);
+}
+.footer .copyright div span {
+  color: var(--yellow-color);
+}
+
+.footer .links ul li a {
+  text-decoration: none !important;
+}
