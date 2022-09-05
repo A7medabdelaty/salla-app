@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/salla-app/static/css/main.ab1d656e.css",
+    "main.js": "/salla-app/static/js/main.de13ef79.js",
+    "static/media/image2.jpg": "/salla-app/static/media/image2.e6eb105ccec9367825cf.jpg",
+    "static/media/image3.jpg": "/salla-app/static/media/image3.f149f2ccd40935ffaf2b.jpg",
+    "static/media/image1.jpg": "/salla-app/static/media/image1.e58bdbcd087488a38c5e.jpg",
+    "index.html": "/salla-app/index.html",
+    "main.ab1d656e.css.map": "/salla-app/static/css/main.ab1d656e.css.map",
+    "main.de13ef79.js.map": "/salla-app/static/js/main.de13ef79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab1d656e.css",
+    "static/js/main.de13ef79.js"
+  ]
+}
